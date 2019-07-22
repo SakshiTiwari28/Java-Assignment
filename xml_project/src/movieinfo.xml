@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Sairat</title>
+    <release-date>
+    <day>13</day>
+    <month>6</month>
+    <year>2019</year>
+    </release-date>
+    <theatre-name>PVR</theatre-name>
+    <theatre-name>Inox</theatre-name>
+    <city>Pune</city>
+    <city>Indore</city>
+    <city>Mumbai</city>
+  </movie>
+  <movie>
+  <code>102</code>
+  <title>Sholey
+  <theatre-name>PVR</theatre-name>
+  </movie>
+</movies>
+ 
