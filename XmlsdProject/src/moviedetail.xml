@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zen:movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zen="http://www.zensar.com/movies" xsi:schemaLocation="http://www.zensar.com/movies movies.xsd ">
+  <zen:movie>
+    <zen:code>5006</zen:code>
+    <zen:title>zen:Kesari</zen:title>
+    <zen:theatre-name>zen:Inox</zen:theatre-name>
+    <zen:city>zen:Indore</zen:city>
+    </zen:movie>
+   <zen:movie>
+   <zen:code>5007</zen:code>
+    <zen:title>zen:Harry Potter</zen:title>
+    <zen:theatre-name>zen:PVR</zen:theatre-name>
+    <zen:city>zen:Pune</zen:city>
+  </zen:movie>
+ </zen:movies>
