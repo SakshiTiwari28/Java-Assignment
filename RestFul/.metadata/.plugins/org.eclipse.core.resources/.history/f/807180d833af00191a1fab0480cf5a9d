@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>form1</title>
+</head>
+<body>
+<form action="http://localhost:8082/HelloWebService/zenrest/fileuploads/upload"  method="post" enctype="mutipart/form-data">
+<p>Select a file:
+<input type="file" name="myfile" size="45" />
+</p>
+<input type="submit" value="Upload file">
+
+
+</form>
+</body>
+</html>

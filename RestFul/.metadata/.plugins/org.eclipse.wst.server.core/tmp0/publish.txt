@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Jul 26 20:51:14 PDT 2019
+org.eclipse.jst.jee.server\:TrivagoHotel=C\:\\Users\\TRG\\Documents\\apache-tomcat-7.0.94-windows-x64\\wtpwebapps\\TrivagoHotel
+org.eclipse.jst.jee.server\:ProductWebService=C\:\\Users\\TRG\\Documents\\apache-tomcat-7.0.94-windows-x64\\wtpwebapps\\ProductWebService
+org.eclipse.jst.jee.server\:HelloWebService=C\:\\Users\\TRG\\Documents\\apache-tomcat-7.0.94-windows-x64\\wtpwebapps\\HelloWebService

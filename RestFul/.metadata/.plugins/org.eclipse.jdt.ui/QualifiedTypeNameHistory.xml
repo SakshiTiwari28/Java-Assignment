@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.ClientBuilder"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.Client"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.WebTarget"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.client.ClientConfig"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.UriBuilder"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="com.zensar.dao.ProductDao"/>
+<fullyQualifiedTypeName name="com.zensar.dao.ProductDaoImplementor"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="com.zensar.service.business.ProductService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.zensar.entities.Product"/>
+<fullyQualifiedTypeName name="com.zensar.service.business.ProductServiceImplementor"/>
+<fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.FormParam"/>
+</qualifiedTypeNameHistroy>

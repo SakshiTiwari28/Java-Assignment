@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trivago Home</title>
+<style type="text/css">
+body{
+background-color:white;
+}
+</style>
+</head>
+<body>
+<h3>Whatsuppp Peopleeeeeeeeee...........</h3>
+
+<p> <a href="addProduct.html">Add Product</a>
+<p> <a href="http://localhost:8082/HelloWebService/zenrest/files/txt">Download</a>
+</body>
+</html>

@@ -1,0 +1,12 @@
+
+
+import javax.ws.rs.core.UriBuilder;
+
+public class HelloClient {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        URI uri =UriBuilder.fromUri("http://localhost:8082/HelloWebService/zenrest");
+	}
+
+}

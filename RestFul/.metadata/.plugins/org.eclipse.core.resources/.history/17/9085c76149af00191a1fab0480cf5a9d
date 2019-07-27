@@ -1,0 +1,14 @@
+package com.zensar.entities;
+
+@Entity
+@Table(name="PRODUCT")
+public class Product {
+  
+	@Id
+	@Column(name="ID")
+	private int productId;
+	private String name;
+	private String brand;
+	private float price;
+	
+}
