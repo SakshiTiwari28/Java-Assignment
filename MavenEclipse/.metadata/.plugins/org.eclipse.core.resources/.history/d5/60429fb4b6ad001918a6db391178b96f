@@ -1,0 +1,23 @@
+package com.phoenix.shop.entities;
+
+import javax.persistence.Table;
+
+@Table
+public class Product {
+    private int productId;
+    private String name;
+    private String brand;
+    private float price;
+    
+	public Product(int productId, String name, String brand, float price) {
+		super();
+		this.productId = productId;
+		this.name = name;
+		this.brand = brand;
+		this.price = price;
+	}
+	public Product() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+}
