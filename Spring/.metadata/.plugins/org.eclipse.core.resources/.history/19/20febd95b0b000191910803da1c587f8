@@ -1,0 +1,14 @@
+package com.zensar.spring.SimpleBean;
+
+public class BirthdayGreeting implements Greeting {
+
+	
+	public BirthdayGreeting(){
+		System.out.println("Birthday Greeting created");
+	}
+	public String sayGreet() {
+		// TODO Auto-generated method stub
+		return "Wish You a very Happy Birthday";
+	}
+
+}

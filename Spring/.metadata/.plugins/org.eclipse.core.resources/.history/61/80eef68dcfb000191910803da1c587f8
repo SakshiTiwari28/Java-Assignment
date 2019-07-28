@@ -1,0 +1,10 @@
+package com.zensar.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class ZensarIdol {
+	
+	ApplicationContext ctx =new ClassPathXmlApplicationContext("performers.xml");
+
+}
