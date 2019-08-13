@@ -1,0 +1,8 @@
+package com.zensar.mockito;
+
+public class ListSpyTest {
+
+	public void testList() {
+		List<String> flowers = Mockito.mock();
+	}
+}

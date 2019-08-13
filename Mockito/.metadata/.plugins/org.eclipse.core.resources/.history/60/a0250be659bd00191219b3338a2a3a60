@@ -1,0 +1,10 @@
+package com.zensar.mockito;
+
+public class CalculatorTest {
+
+	private Calculator calculator;
+	
+	public void testAdd() {
+		
+	}
+}

@@ -1,0 +1,15 @@
+package com.zensar.mockito;
+
+public class Arithmetic {
+	
+	
+	public Arithmetic(Calculator calculator) {
+		super();
+		this.calculator = calculator;
+	}
+
+	public void doAddition() {
+		
+	}
+
+}

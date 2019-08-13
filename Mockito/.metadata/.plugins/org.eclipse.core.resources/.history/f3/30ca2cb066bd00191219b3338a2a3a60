@@ -1,0 +1,12 @@
+package com.zensar.mockito;
+
+import java.util.List;
+
+import org.mockito.Mockito;
+
+public class ListSpyTest {
+
+	public void testList() {
+		List<String> flowers = Mockito.mock(List.class);
+	}
+}

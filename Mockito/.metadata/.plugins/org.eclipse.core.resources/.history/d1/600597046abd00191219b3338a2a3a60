@@ -1,0 +1,10 @@
+package com.zensar.mockito;
+
+import org.mockito.InjectMocks;
+
+public class ArithmeticTest {
+	
+	@InjectMocks
+	private Arithmetic arithmetic ;
+
+}

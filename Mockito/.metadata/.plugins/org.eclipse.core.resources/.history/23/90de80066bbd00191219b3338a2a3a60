@@ -1,0 +1,21 @@
+package com.zensar.mockito;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+import org.mockito.InjectMocks;
+import org.mockito.Mockito;
+
+public class ArithmeticTest {
+	
+	@InjectMocks
+    private Calculator calculator;
+	private Arithmetic arithmetic ;
+	
+	@Test
+	public void testAddition() {
+		Mockito.when(arithmetic.doAddition()).thenReturn(30);
+		assertEquals(30, arithmetic.doAddition());
+	}
+
+}
