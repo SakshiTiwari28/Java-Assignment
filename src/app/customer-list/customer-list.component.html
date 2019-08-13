@@ -1,0 +1,17 @@
+<app-customer-detail *ngFor ="let c of customers" [customer]="c">
+
+</app-customer-detail>
+<app-customer (customerEmitter)="addCustomer($event)"></app-customer>
+
+<table>
+    <tr>
+        <td>Customer Name </td>
+        <td> Customer Birthdate </td>
+       
+    </tr>
+    <tr *ngFor="let c of customers">
+         <td>{{c.name}}</td>
+        <td>{{c.birthdate}} </td>
+        
+    </tr>
+</table>

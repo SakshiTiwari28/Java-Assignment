@@ -1,0 +1,18 @@
+<app-product-detail *ngFor ="let p of products" [product]="p"></app-product-detail>
+<!-- <app-root *ngFor="let p of products" ></app-root> -->
+
+<!-- <div class= "container">
+    <select >
+        <option *ngFor="let p of products" value="p.productId">{{p.productId}}</option>   
+       </select>
+       <button (click) ="delete()">Delete</button>
+   </div> -->
+
+   <ul>
+    <li *ngFor="let p of products"> 
+        {{ p.productId }} <span><button (click)="delete(productId)">Delete Record</button></span>
+    </li>
+</ul>
+
+
+
