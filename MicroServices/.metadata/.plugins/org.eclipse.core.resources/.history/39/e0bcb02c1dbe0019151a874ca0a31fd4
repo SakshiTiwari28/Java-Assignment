@@ -1,0 +1,12 @@
+package com.zensar.forex;
+
+import org.springframework.core.env.Environment;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ForexController {
+
+	@Autowired
+	private Environment env;
+	
+}

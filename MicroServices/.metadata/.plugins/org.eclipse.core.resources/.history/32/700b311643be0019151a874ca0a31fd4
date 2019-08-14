@@ -1,0 +1,9 @@
+package com.zensar.currency.conversion;
+
+import org.springframework.web.bind.annotation.PathVariable;
+
+public interface CurrencyExchangeServiceProxy {
+
+	public CurrencyConversionBean retrieveExchangeValue(
+			@PathVariable("from") String from , @PathVariable("to") String to)
+}
