@@ -1,9 +1,2 @@
 /* You can add global styles to this file, and also import other style files */
-@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
-
-body{
-
-background-color: blanchedalmond;
-/* background-image: url(assets/bg.jpg); */
-background-image: cover;
-}
+@import url(https://unpkg.com/bootstrap@4.1.0/dist/css/bootstrap.min.css)
