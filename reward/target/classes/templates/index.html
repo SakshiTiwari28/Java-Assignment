@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href ="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel ="stylesheet">
+    <style>
+        .credit-score,.credit-amount{
+            display: none;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container ">
+        <div class="row mt-4">
+            <form action="" class="reward-form text-center ">
+              <input type="radio" name ="select" id="one">Reward to cash<br>
+              <input type="radio" name ="select" id= "two">Cash to Reward<br>
+            </form>
+         </div>
+            <div class="credit-score" id="credit">
+            <form action="" class="calculate text-center ">
+              <label for="credit">  Enter your credit points </label><input type="text" name ="enter" id="enter" ><br>
+              <label for="amount">  Amount </label><input type="text" name ="select" id="get" disabled ><br>
+              </form>
+            </div>
+            <div class="credit-amount" id= "amount">
+                <form action="" class="calculate text-center ">
+                  <label for="amount">  Enter Amount </label><input type="text" name ="enter" id="credit"><br>
+                  <label for="credit">  Credit </label><input type="text" name ="select" id="reward" disabled ><br>
+                  </form>
+            </div>
+    </div>
+    <script src="/reward/src/main/resources/static/app.js"></script>
+</body>
+</html>
